@@ -12,7 +12,7 @@
   left: 45vw;
   font-size: 40px;
   bottom: 5vh;
-  font-family: "Roboto Condensed";
+  font-family: 'Roboto Condensed', sans-serif;
   letter-spacing: 3px; 
 }
 #Star-guardian h2{
@@ -21,7 +21,7 @@
   left: 46.5vw;
   bottom: 0;
   font-size: 25px;
-  font-family: "Impact";
+  font-family: 'Roboto Condensed', sans-serif;
   letter-spacing: 2px;
 }
 #tint {
