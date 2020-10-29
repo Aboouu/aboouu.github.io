@@ -3,8 +3,8 @@
   background-size: cover; 
   position: relative;
   width: 100vw;
-  height: 60vh; 
-  background-image: url("https://images-ext-2.discordapp.net/external/IlbACj2WVg4VxmHML7bKrpJpP9N44gchPfzBnyJmgDI/https/static.wixstatic.com/media/f1dbf1_d37e39aa9d3d4b58908f10b4abb05b69~mv2.png/v1/fill/w_3315%2Ch_578%2Cal_c%2Cq_90/f1dbf1_d37e39aa9d3d4b58908f10b4abb05b69~mv2.webp?width=1442&height=251");
+  height: 30vh;
+  background-image: url("https://www.publicdomainpictures.net/pictures/150000/velka/banner-header-tapete-145002399028x.jpg");
 }
 h1{
   color: white;
@@ -27,9 +27,36 @@ h2{
 #tint {
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.6)
+  background-color: rgba(0,0,0,0.3)
 }
-
+div {background-color: white;}
+div a {
+  text-decoration: none;
+  color: #ff84fd;
+  font-size: 20px;
+  padding: 15px;
+  display:inline-block;
+}
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  z-index: 1; 
+}
+ul li {display: inline-block;}
+ul li:hover {background: #555;}
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li { 
+  background: #555; 
+  display: block; 
+}
+ul li ul li a {display:block !important;} 
+ul li ul li:hover {background: #666;}
 
 
 
