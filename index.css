@@ -1,19 +1,33 @@
+#Star-guardian {
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  position: relative;
+  width: 100vw;
+  height: 60vh; 
+  background-image: url("https://images-ext-2.discordapp.net/external/IlbACj2WVg4VxmHML7bKrpJpP9N44gchPfzBnyJmgDI/https/static.wixstatic.com/media/f1dbf1_d37e39aa9d3d4b58908f10b4abb05b69~mv2.png/v1/fill/w_3315%2Ch_578%2Cal_c%2Cq_90/f1dbf1_d37e39aa9d3d4b58908f10b4abb05b69~mv2.webp?width=1442&height=251");
+}
 h1{
   color: white;
-  fontsize: 
-  text-align: center;
+  position: absolute;
+  left: 45vw;
+  font-size: 40px;
+  bottom: 5vh;
+  font-family: "Impact";
+  letter-spacing: 3px; 
 }
 h2{
-  color: whitee;
-  fontsize:
-  text-align: center;
+  color: white;
+  position: absolute;
+  left: 46.5vw;
+  bottom: 0;
+  font-size: 25px;
+  font-family: "Impact";
+  letter-spacing: 2px;
 }
-
-
-#Star-guardian {
+#tint {
   width: 100%;
-  height: 45%;
-  background-image: url("Star-guardian.jpg");
+  height: 100%;
+  background-color: rgba(0,0,0,0.6)
 }
 
 
