@@ -6,7 +6,7 @@
   height: 30vh;
   background-image: url("https://www.publicdomainpictures.net/pictures/150000/velka/banner-header-tapete-145002399028x.jpg");
 }
-h1{
+#Star-guardian h1{
   color: white;
   position: absolute;
   left: 45vw;
@@ -15,7 +15,7 @@ h1{
   font-family: "Roboto Condensed";
   letter-spacing: 3px; 
 }
-h2{
+#Star-guardian h2{
   color: white;
   position: absolute;
   left: 46.5vw;
