@@ -44,7 +44,7 @@ ul {
   z-index: 1; 
 }
 ul li {display: inline-block;}
-ul li:hover {background: #555;}
+ul li:hover {background: #ffffff;}
 ul li:hover ul {display: block;}
 ul li ul {
   position: absolute;
@@ -52,11 +52,11 @@ ul li ul {
   display: none;
 }
 ul li ul li { 
-  background: #555; 
+  background: #ffffff; 
   display: block; 
 }
 ul li ul li a {display:block !important;} 
-ul li ul li:hover {background: #666;}
+ul li ul li:hover {background: #ffffff;}
 
 span {
   text-decoration: none;
